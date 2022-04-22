@@ -1,7 +1,7 @@
 Hi 👋 My name is Viraj Pawar
 ============================
 
-Data Scientist by profession and a lifelong learner of the ever evolving Data science.
+Data Scientist by profession and a lifelong learner of the ever evolving field of Data science.
 --------------------------------------------------------------------------------------
 
 I have been working as a Data Scientist for a number of years in many industries. I like to keep working on my skills and contribute to new projects.
