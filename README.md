@@ -1,7 +1,7 @@
 Hi 👋 My name is Viraj
 ============================
 
-Data Scientist by profession and a lifelong learner of the ever evolving field of Data science.
+Data Scientist by profession and a lifelong learner of the ever-evolving field of Data science.
 --------------------------------------------------------------------------------------
 
 I have been working as a Data Scientist for a number of years in many industries. I like to keep working on my skills and contribute to new projects.
@@ -9,7 +9,7 @@ I have been working as a Data Scientist for a number of years in many industries
 * 🌍  I'm based in Dublin
 * ✉️  You can contact me at [virajp.mail@gmail.com](mailto:virajp.mail@gmail.com)
 * 🧠  I'm learning Javascript, GNN
-* 🤝  I'm open to collaborating on GNN, NLP projects
+* 🤝  I'm open to collaborating on Data Science projects, and NLP projects.
 
 ### Skills
 
